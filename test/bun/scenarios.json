@@ -1,0 +1,18 @@
+{
+  "bun-v-1-0-0": {
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+      "bun": {
+        "version": "1.0.0"
+      }
+    }
+  },
+  "bun-v-0-8-1": {
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+      "bun": {
+        "version": "0.8.1"
+      }
+    }
+  }
+}

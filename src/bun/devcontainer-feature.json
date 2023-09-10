@@ -1,0 +1,18 @@
+{
+    "name": "Bun",
+    "id": "bun",
+    "version": "1.0.0",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "latest",
+                "1.0.0",
+                "0.8.1"
+            ],
+            "default": "latest",
+            "description": "Select or enter a version of Bun to install."
+        }
+    }
+}
